@@ -4,7 +4,7 @@ from bpy.props import StringProperty
 bl_info = {
     'name': "Trevor's Blender Add-on",
     'blender': (2,80,0),
-    'category': 'Commands'
+    'category': 'Interface'
 }
 
 class OperatorGoToFrame(bpy.types.Operator):
